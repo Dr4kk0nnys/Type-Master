@@ -1,0 +1,12 @@
+Pytesseract ?  Pyautogui
+
+
+https://play.typeracer.com/
+
+
+
+Read the text using image recognition
+
+Get the text, sanitize it
+
+Type the text
